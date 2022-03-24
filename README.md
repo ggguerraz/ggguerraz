@@ -1,6 +1,6 @@
 ### Olá! Sou Lorenzo Lobo, também conhecido como ggguerra!
 - ▪ Generative Artist | Music Producer | DevOps | InfoSec  Analyst |
-- CreativeCoding #CreativeCoder
+- #CreativeCoding #CreativeCoder
 ##
 - ▪ Estou aprendendo JavaScript | TypeScript | Python & P5
 - ▪ Faço Generative Art / Música Experimental e mesclo esses dois elementos em projetos Audio-Visuais. 
